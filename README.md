@@ -20,15 +20,15 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
-• 🏘️ #GengKapak
-• 📅 June 12th, 1998
-• 🎓 I’m now studying at [Universitas  Negeri Jakarta](https:/unj.ac.id)
-• 🌱 I’m currently learning Android Development.
-• 🐍 I love Python programming language.
-• 🤔 I’m looking for help with Search Engine.
-• 📫 How to reach me : [Twitter- Reza](https://twitter.co/grettorosella), [Telegram - Reza](https://t.me/grettorosella), [Facebook - Reza](https://www.facebook.com/rezabagasrifaldy)
-• ❤ ️Monku🤗.
-• ☕ Coffee Addict.
+- 🏘️ #GengKapak
+- 📅 June 12th, 1998
+- 🎓 I’m now studying at [Universitas  Negeri Jakarta](https:/unj.ac.id)
+- 🌱 I’m currently learning Android Development.
+- 🐍 I love Python programming language.
+- 🤔 I’m looking for help with Search Engine.
+- 📫 How to reach me : [Twitter- Reza](https://twitter.co/grettorosella), [Telegram - Reza](https://t.me/grettorosella), [Facebook - Reza](https://www.facebook.com/rezabagasrifaldy)
+- ❤ ️Monku🤗.
+- ☕ Coffee Addict.
 ---
 **Languages and Tools:** 
 
