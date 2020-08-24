@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Angga, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Reza, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
 ---
 <p align="center">
@@ -8,11 +8,10 @@
 
 ---
 <p align="center">
-<a href="https://github.com/AnggaR96s"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anggars"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/anggasync"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-<a href="mailto:kiritoclasher@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="mailto:anggasyn@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
+<a href="https://github.com/GrettoRosella"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rezabagasrifaldy"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/rezabagasrifaldy"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
+<a href="mailto:endahrifaldy@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
 ---
 <!-- Talking about you -->
@@ -21,12 +20,12 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
-- 🎓 I’m now studying at [Universitas Putra Indonesia "YPTK" Padang](https://upiyptk.ac.id)
+- 🎓 I’m now studying at [Universitas  Negeri Jakart](https:/unj.ac.id)
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🤔 I’m looking for help with Search Engine.
-- 📫 How to reach me : [Twitter - Angga](https://twitter.com/NGGJNCK)
-- 🌐 Official Website : [Website - ANGGA.STUDIO](https://angga.studio)
+- 📫 How to reach me : [Twitter- Reza](https://twitter.comgrettorosella)
+- ❤ ️I love you Endah Dwi Novitasari.
 - 😴 Only sleep 4 hours a day.
 - ☕ Coffee Addict.
 ---
