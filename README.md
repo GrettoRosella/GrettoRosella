@@ -20,13 +20,12 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
-- 🎓 I’m now studying at [Universitas  Negeri Jakart](https:/unj.ac.id)
+- 🎓 I’m now studying at [Universitas  Negeri Jakarta](https:/unj.ac.id)
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🤔 I’m looking for help with Search Engine.
 - 📫 How to reach me : [Twitter- Reza](https://twitter.comgrettorosella)
-- ❤ ️I love you Endah Dwi Novitasari.
-- 😴 Only sleep 4 hours a day.
+- ❤ ️Monku🤗.
 - ☕ Coffee Addict.
 ---
 **Languages and Tools:** 
