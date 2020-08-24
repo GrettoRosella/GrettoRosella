@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🤔 I’m looking for help with Search Engine.
-- 📫 How to reach me : [Twitter- Reza](https://twitter.comgrettorosella)
+- 📫 How to reach me : [Twitter- Reza](https://twitter.co/grettorosella)
 - ❤ ️Monku🤗.
 - ☕ Coffee Addict.
 ---
