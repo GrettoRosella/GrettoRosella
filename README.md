@@ -62,8 +62,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ---
 <!-- This readme was created by Angga - https://github.com/AnggaR96s -->
-
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
