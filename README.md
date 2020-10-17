@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Reza, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Reza, from Indonesia. <img src="https://raw.githubusercontent.com/GrettoRosella/GrettoRosella/master/asset/Hi.gif" width="30px">
 
 ---
 <p align="center">
@@ -18,7 +18,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/GrettoRosella/GrettoRosella/master/asset/git-header.svg" />
 
 - 🏘️ #GengKapak
 - 📅 June 12th, 1998
@@ -58,6 +58,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+
+---
+**Trophy 🏆:**<br>
+<p align="center">
+  <a href="https://github.com/GrettoRosella">
+    <img width="80%" alt="GrettoRosella's Trophy" src="https://github-profile-trophy.vercel.app/?username=GrettoRosella&row=2&column=3&theme=flat" />
+  </a>
 </p>
 
 ---
